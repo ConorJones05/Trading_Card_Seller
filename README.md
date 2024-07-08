@@ -14,7 +14,7 @@ This Java program uses a list of trading card names and interacts with the eBay 
 ## Setup
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/trading-card-price-optimizer.git
+   git clone [https://github.com/ConorJones05/Trading_Card_Seller.git]
    ```
 2. **Install dependencies:**
    Add the required libraries to your project's build path.
